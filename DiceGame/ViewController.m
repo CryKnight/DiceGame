@@ -11,6 +11,7 @@
 @interface ViewController ()
 
 @property (nonatomic, strong) NSString *username;
+@property (nonatomic, strong) NSString *psw;
 @end
 
 @implementation ViewController
